@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<gamestore>
+<plateform category="PC-WINDOWS">
+	<game category="Action">
+		<gamedetail>
+			<name>Far Cry</name>
+			<size>14 GB</size>
+			<price>600</price>
+			<requirements>Intel i3 10th Gen/ AMD A4</requirements>
+		</gamedetail>
+		<gamedetail>
+			<name>GTA V</name>
+			<size>70 GB</size>
+			<price>2000</price>
+			<requirements>Intel i7 10th Gen/ AMD Ryzen 6</requirements>
+		</gamedetail>
+	</game>
+	<game category="Sports">
+		<gamedetail>
+			<name>Circket 2021</name>
+			<size>20 GB</size>
+			<price>1899</price>
+			<requirements>Intel i5 9th Gen</requirements>
+		</gamedetail>
+		<gamedetail>
+			<name>FIFA 2020</name>
+			<size>18 GB</size>
+			<price>1789</price>
+			<requirements>Intel i5 8th Gen/ AMD A5</requirements>
+		</gamedetail>
+	</game>
+</plateform>
+<plateform category="Xbox 360">
+	<game category="Shooting">
+		<gamedetail>
+			<name>Call of Duty</name>
+			<size>20.5 GB</size>
+			<price>900</price>
+			<requirements>Intel i7 10th Gen/ AMD Ryzen 6</requirements>
+		</gamedetail>
+		<gamedetail>
+			<name>Hitman</name>
+			<size>6.5 GB</size>
+			<price>560</price>
+			<requirements>Intel i3 10th Gen/ AMD Ryzen 4</requirements>
+		</gamedetail>
+	</game>
+	<game category="Survival">
+		<gamedetail>
+			<name>Battleship</name>
+			<size>25 GB</size>
+			<price>2999</price>
+			<requirements>Intel i9/ AMD Ryzen 5</requirements>
+		</gamedetail>
+		<gamedetail>
+			<name>Syndicate</name>
+			<size>17.5 GB</size>
+			<price>1289</price>
+			<requirements>Intel i5 9th Gen</requirements>
+		</gamedetail>
+	</game>
+</plateform>
+<plateform category="PlayStation 3">
+	<game category="Adventure">
+		<gamedetail>
+			<name>Depth of Peril</name>
+			<size>12.5 GB</size>
+			<price>2389</price>
+			<requirements>PlayStation 3</requirements>
+		</gamedetail>
+		<gamedetail>
+			<name>World War</name>
+			<size>32 GB</size>
+			<price>2899</price>
+			<requirements>PlayStation 2</requirements>
+		</gamedetail>
+	</game>
+	<game category="Open World">
+		<gamedetail>
+			<name>World in Conflict Cannon</name>
+			<size>8.9 GB</size>
+			<price>3990</price>
+			<requirements>PlayStation 3</requirements>
+		</gamedetail>
+		<gamedetail>
+			<name>Supreme Commander</name>
+			<size>4.1 GB</size>
+			<price>2950</price>
+			<requirements>PlayStation 1</requirements>
+		</gamedetail>
+	</game>
+</plateform>
+</gamestore>
